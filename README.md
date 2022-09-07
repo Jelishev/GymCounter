@@ -10,4 +10,4 @@ It would be nice to have:
 - Trackers or graphs for different workouts
 - Customizable color schemes (main feature)
 - Customizable layouts
-
+- Lets users change the test of any element on the main screen of the app
