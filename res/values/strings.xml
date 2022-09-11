@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tamago Timer</string>
+    <color name="olivia_back">#1c1b1d</color>
+    <string name="time">00 : 00 : 00</string>
+</resources>
