@@ -1,5 +1,6 @@
 # GymCounter
 
+Built in Android Studio
 This is just a small android app intended to be used at the gym.
 
 It will have:
